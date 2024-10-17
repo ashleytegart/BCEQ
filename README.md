@@ -5,7 +5,7 @@ This repository contains the following:
 (A) **ACTUALLY_README.md**
 - contains information surrounding data acquisition and analysis methodology
 
-  (1) Colab (Julyter) notebook: [link](https://colab.research.google.com/drive/1IXM4jg53AWLOlJfXK0wFrcC4x50hs1ja?usp=sharing)
+  (1) Colab (Julyter) notebook: [link](https://colab.research.google.com/drive/1DT2BTUE-0tHoaqCcfNEFGPFyZ3caBmhX?usp=sharing)
 
    -> username: ashley.d.tegart
     -> notebook: EQ Data 2013-2023
