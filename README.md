@@ -8,7 +8,7 @@ This repository contains the following:
   (1) Colab (Julyter) notebook: [link](https://colab.research.google.com/drive/1DT2BTUE-0tHoaqCcfNEFGPFyZ3caBmhX?usp=sharing)
 
    -> username: ashley.d.tegart
-    -> notebook: EQ Data 2013-2023
+    -> notebook: EQ_Data_2014_2023.ipynb
 
    (2) Outside preliminary research sources:
 
